@@ -52,3 +52,12 @@ ul.navbar-nav li.user-dropdown{
     border-top-left-radius: 0;
     border-top-right-radius: 0;
 }
+
+/* FOOTER */
+.link-by {
+    color: #fff
+}
+
+.link-by:hover {
+    color: #ccc;
+}
