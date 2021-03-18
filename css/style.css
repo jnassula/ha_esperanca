@@ -52,3 +52,9 @@ ul.navbar-nav li.user-dropdown{
     border-top-left-radius: 0;
     border-top-right-radius: 0;
 }
+
+.navbar-brand{
+    text-align: center;
+    font-size: small;
+}
+
