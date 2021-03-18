@@ -53,13 +53,11 @@ ul.navbar-nav li.user-dropdown{
     border-top-right-radius: 0;
 }
 
-<<<<<<< HEAD
 .navbar-brand{
     text-align: center;
     font-size: small;
 }
 
-=======
 /* FOOTER */
 .link-by {
     color: #fff
@@ -68,4 +66,3 @@ ul.navbar-nav li.user-dropdown{
 .link-by:hover {
     color: #ccc;
 }
->>>>>>> 86c22ab0c9c2ff41a5ad21919172e933caf3942c
