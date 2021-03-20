@@ -1,4 +1,8 @@
-# ![](https://github.com/jnassula/ha_esperanca/blob/main/images/logo_login.png)
+<p align="center">
+  <img src="https://github.com/jnassula/ha_esperanca/blob/main/images/logo_login.png"/>
+</p>
+
+
 Web App para cadastro de ações para ONG Há Esperança.
 <h1>Templates</h1>
 
